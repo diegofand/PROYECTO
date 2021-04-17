@@ -1,10 +1,6 @@
-.footer{
- background-color:#343a40!important;
- position: absolute;
- bottom: 0; 
- width: 100%;
- text-align: center;
+*{
+    background-image:url(Proyecto/img/Caldo.jpg);
 }
-.Inicio{
-    text-align: center;
+.container{
+    padding: 2%;
 }
