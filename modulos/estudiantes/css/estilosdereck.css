@@ -23,31 +23,6 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
-.boton {
-    color: white;
-    background-color: red;
-    border-radius: 10%;
-}
-
-.notas {
-    color: white;
-    background-color: rgb(20, 204, 20);
-    border-radius: 10%;
-}
-
-.modificar {
-    color:  white;
-    background-color: blue;
-    border-radius: 10%;
-}
-
-.crear {
-    color:  white;
-    background-color: blue;
-    border-radius: 10%;
-    margin-left: 80%;
-}
-
 .col--sm-9 {
     background-color: white;
 }
