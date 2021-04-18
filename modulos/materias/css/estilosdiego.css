@@ -1,0 +1,18 @@
+.cuerpo{
+    background-color: rgba(21,80,131,1);
+}
+
+.container{
+    margin-top: 70px;
+    align-items: center;
+    ;
+    
+}
+.boton{
+    padding: 100px;
+}
+textarea{
+    resize: none;
+    height: 5px;
+    width:auto ;
+}
