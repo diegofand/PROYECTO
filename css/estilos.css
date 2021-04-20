@@ -1,6 +1,13 @@
-*{
-    background-image:url(Proyecto/img/Caldo.jpg);
+.card{
+    margin: 50px;
+    padding: 0px;
 }
-.container{
-    padding: 2%;
+
+body{
+    background-color: #176e7e;
+}
+
+.card-header{
+    background-color: #343a40;
+    color: white;
 }
