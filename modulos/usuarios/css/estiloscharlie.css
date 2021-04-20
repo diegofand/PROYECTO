@@ -1,0 +1,13 @@
+.card{
+    margin: 50px;
+    padding: auto;
+}
+
+body{
+    background-color: #176e7e;
+}
+
+.card-header{
+    background-color: #343a40;
+    color: white;
+}

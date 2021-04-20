@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(18, 130, 150);
+    color: black;
+}
+
+.footer{
+ background-color:#095461!important;
+ position: absolute;
+ bottom: 0; 
+ width: 100%;
+ text-align: center;
+}
+.Inicio{
+    text-align: center;
+}
+
+.container {
+    
+    margin-top: 5%;
+}
+
+.fin {
+    text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: white;
+    height: 70px;
+}   
